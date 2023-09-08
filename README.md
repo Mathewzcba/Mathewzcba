@@ -12,10 +12,10 @@ Vamos juntos criar um futuro digital incrível! 🌟🚀
 
 ## 👨‍💻 Conecte-se comigo
 
-'''[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathewz_cba)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/mathewz_cba)
-'''
+
 ## 📚 Estudando
 🐍 Python e SQL: Minhas Ferramentas de Aprendizado
 
