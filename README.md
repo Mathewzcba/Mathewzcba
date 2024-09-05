@@ -17,7 +17,7 @@ Vamos juntos criar um futuro digital incrível! 🌟🚀
 [![Discord](https://img.shields.io/badge/Discord-1DA1F?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/mathewz_cba)
 
 ## 📚 Estudando
-🐍 Python e SQL: Minhas Ferramentas de Aprendizado
+🐍 Python | SQL | Automação | Power Bi : Minhas Ferramentas de Aprendizado
 
 
 
