@@ -2,7 +2,7 @@
 
 # Codificação Criativa - Meu Playground de Bits e Bytes
 
-👋 Olá! Sou o Matheus, um entusiasta da tecnologia, Tenho 22 anos, nascido e criado na terra da garoa, São Paulo - Capital. 👨‍💻✨
+👋 Olá! Sou o Matheus, um entusiasta da tecnologia, Tenho 23 anos, nascido e criado na terra da garoa, São Paulo - Capital. 👨‍💻✨
 
 Atualmente, estou trilhando o caminho da Ciência de Dados, em busca do conhecimento que transforma dados em insights valiosos. Minha jornada acadêmica é apenas o começo, pois meu objetivo é me especializar nesse campo empolgante.
 
@@ -12,7 +12,7 @@ Vamos juntos criar um futuro digital incrível! 🌟🚀
 
 ## 👨‍💻 Conecte-se comigo
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gon%C3%A7alves-85539727a/) 
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathewz_cba)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/mathewz_cba)
 
