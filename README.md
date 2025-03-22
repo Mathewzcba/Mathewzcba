@@ -1,12 +1,12 @@
-
-
 # Codificação Criativa - Meu Playground de Bits e Bytes
 
-👋 Olá! Sou o Matheus, um entusiasta da tecnologia, Tenho 23 anos, nascido e criado na terra da garoa, São Paulo - Capital. 👨‍💻✨
+[![visits](https://komarev.com/ghpvc/?username=Mathewzcba&label=Visits)](https://github.com/Mathewzcba)
+
+👋 Olá! Sou o Matheus, um entusiasta da tecnologia, tenho 24 anos, nascido e criado na terra da garoa, São Paulo - Capital. 👨‍💻✨
 
 Atualmente, estou trilhando o caminho da Ciência de Dados, em busca do conhecimento que transforma dados em insights valiosos. Minha jornada acadêmica é apenas o começo, pois meu objetivo é me especializar nesse campo empolgante.
 
-Acredito que a tecnologia tem o poder de mudar o mundo, e estou comprometido em fazer minha parte nessa jornada. Seja bem-vindo à minha jornada, onde a curiosidade e a inovação são as estrelas do show!
+Acredito que a tecnologia tem o poder de mudar o mundo, e estou comprometido em fazer minha parte nessa jornada. Seja bem-vindo à minha trajetória, onde a curiosidade e a inovação são as estrelas do show!
 
 Vamos juntos criar um futuro digital incrível! 🌟🚀
 
@@ -17,9 +17,9 @@ Vamos juntos criar um futuro digital incrível! 🌟🚀
 [![Discord](https://img.shields.io/badge/Discord-1DA1F?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/mathewz_cba)
 
 ## 📚 Estudando
+
 🐍 Python | SQL | Automação | Power Bi : Minhas Ferramentas de Aprendizado
 
-
-
 <p align="right">
-<img src="https://giffiles.alphacoders.com/264/2648.gif"  width="100" />
+  <img src="https://giffiles.alphacoders.com/264/2648.gif" width="100" alt="GIF animado">
+</p>
