@@ -66,7 +66,7 @@ Aplicação web para personalização e simulação de quadros, permitindo visua
 
 **Tecnologias:** JavaScript, HTML, CSS e processamento visual no navegador.
 
-[Visualizar repositório](https://github.com/Mathewzcba/cdrquad)
+[Visualizar repositório]([https://github.com/Mathewzcba/cdrquad](https://mathewzcba.github.io/cdrquad/))
 
 ---
 
