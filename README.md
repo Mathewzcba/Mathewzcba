@@ -44,6 +44,23 @@ Plataforma PWA para operação de micromercados, construída com **React, TypeSc
 
 ---
 
+### 📊 Automações e soluções corporativas
+
+Desenvolvimento de ferramentas internas voltadas à automação e análise de dados, incluindo:
+
+* simuladores de produtos;
+* dashboards executivos e comerciais;
+* processamento de planilhas com Python;
+* integrações com APIs;
+* geração automatizada de relatórios;
+* ferramentas para apoio à tomada de decisão.
+
+Os códigos e dados desses projetos não são publicados por conterem informações corporativas, mas seus estudos de caso poderão ser apresentados de forma anonimizada.
+
+
+---
+
+
 ### 🧠 ATENA — Agente Local de IA
 
 Agente local de inteligência artificial desenvolvido com foco em privacidade, extensibilidade e execução de tarefas.
@@ -71,20 +88,7 @@ Aplicação web para personalização e simulação de quadros, permitindo visua
 
 ---
 
-### 📊 Automações e soluções corporativas
 
-Desenvolvimento de ferramentas internas voltadas à automação e análise de dados, incluindo:
-
-* simuladores de produtos;
-* dashboards executivos e comerciais;
-* processamento de planilhas com Python;
-* integrações com APIs;
-* geração automatizada de relatórios;
-* ferramentas para apoio à tomada de decisão.
-
-Os códigos e dados desses projetos não são publicados por conterem informações corporativas, mas seus estudos de caso poderão ser apresentados de forma anonimizada.
-
----
 
 ## Tecnologias
 
