@@ -1,6 +1,7 @@
-# Matheus Gonçalves
+# Matheus Gonçalves  [![visits](https://komarev.com/ghpvc/?username=Mathewzcba&label=Visits)](https://github.com/Mathewzcba)
 
 ### Analista de Automação Jr. | Python, React, TypeScript e Inteligência Artificial
+
 
 Desenvolvo **automações, aplicações web, dashboards e agentes locais de IA**, transformando problemas reais em soluções funcionais.
 
