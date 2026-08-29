@@ -44,22 +44,28 @@ Plataforma PWA para operação de micromercados, construída com **React, TypeSc
 
 ---
 
-### 📊 Automações e soluções corporativas
+### 🤖 Automação de cobranças — Seguro-fiança
 
-Desenvolvimento de ferramentas internas voltadas à automação e análise de dados, incluindo:
+Automação corporativa desenvolvida em **Python** e integrada à **API do Pipefy** para acompanhar propostas aprovadas e executar o fluxo de cobrança de forma automatizada.
 
-* simuladores de produtos;
-* dashboards executivos e comerciais;
-* processamento de planilhas com Python;
-* integrações com APIs;
-* geração automatizada de relatórios;
-* ferramentas para apoio à tomada de decisão.
+A solução:
 
-Os códigos e dados desses projetos não são publicados por conterem informações corporativas, mas seus estudos de caso poderão ser apresentados de forma anonimizada.
+- consulta diariamente os casos aprovados por meio da API;
+- identifica as datas previstas para cobrança;
+- calcula e classifica cada etapa do processo;
+- diferencia automaticamente a primeira e a segunda cobrança;
+- atualiza os cards correspondentes no Pipefy;
+- aciona automações responsáveis pelo envio dos e-mails;
+- processa aproximadamente **20 cobranças por dia**;
+- já contribuiu para **conversões reais de clientes**.
 
+O projeto reduziu atividades manuais, aumentou a consistência do processo e permitiu que a equipe acompanhasse as cobranças de maneira mais estruturada.
+
+**Tecnologias:** Python, API GraphQL do Pipefy, automação de processos, regras de negócio e integração de sistemas.
+
+> Por se tratar de uma solução corporativa, códigos, credenciais e dados internos não são disponibilizados publicamente. Um estudo de caso anonimizado será publicado no portfólio.
 
 ---
-
 
 ### 🧠 ATENA — Agente Local de IA
 
@@ -78,16 +84,20 @@ O projeto possui arquitetura modular para modelos locais, memória persistente, 
 
 ---
 
-### 🖼️ CDR Quadros & Molduras
+### 📊 Automações e soluções corporativas
 
-Aplicação web para personalização e simulação de quadros, permitindo visualizar combinações de imagens, molduras e dimensões antes da compra.
+Desenvolvimento de ferramentas internas voltadas à automação e análise de dados, incluindo:
 
-**Tecnologias:** JavaScript, HTML, CSS e processamento visual no navegador.
+* simuladores de produtos;
+* dashboards executivos e comerciais;
+* processamento de planilhas com Python;
+* integrações com APIs;
+* geração automatizada de relatórios;
+* ferramentas para apoio à tomada de decisão.
 
-[Visualizar repositório]([https://github.com/Mathewzcba/cdrquad](https://mathewzcba.github.io/cdrquad/))
+Os códigos e dados desses projetos não são publicados por conterem informações corporativas, mas seus estudos de caso poderão ser apresentados de forma anonimizada.
 
 ---
-
 
 
 ## Tecnologias
